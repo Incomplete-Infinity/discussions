@@ -6,6 +6,12 @@ Embark on a comprehensive, visually enriched journey through __Incomplete Infini
 
 #### 1. Visual Overview
 
+Behold the expansive git graph, a celestial roadmap mapping commits in the vast 'main' branch. Each commit, akin to a star in our coding constellation, bears a unique tag.
+
+```mermaid
+gitGraph
+   commit
+```
 
 As developers 'push' code, new stars emerge, coalescing into a constellation of progress.
 
@@ -108,15 +114,6 @@ gitGraph
 ```
 
 In cosmic collaborations, helpers forge new galaxies, merging seamlessly.
-
-### GitHub Basics
-
-Behold the expansive git graph, a celestial roadmap mapping commits in the vast 'main' branch. Each commit, akin to a star in our coding constellation, bears a unique tag.
-
-```mermaid
-gitGraph
-   commit
-```
 
 Unveil the powers GitHub bestows upon you:
 
